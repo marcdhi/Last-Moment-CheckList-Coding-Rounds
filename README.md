@@ -170,6 +170,7 @@
   18. [ ] Egg Dropping Puzzle
   19. [ ] Optimal Strategy for a Game
   20. [ ] Shortest Common Supersequence
+  21. [ ] Ninja Technique
 - [x] L. Divide and Conquer:
   1. [ ] Find the element that appears once in sorted array
   2. [ ] Search in a Rotated Array
