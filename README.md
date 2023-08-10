@@ -150,7 +150,7 @@
   11. [ ] Shop in Candy Store
   12. [ ] Geek collects the balls
 - [x] K. Dynamic Programming:
-  1. [ ] Minimum Operations
+  1. [x] [Minimum Operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1)
   2. [ ] Max length chain
   3. [ ] Minimum number of Coins
   4. [ ] Longest Common Substring
